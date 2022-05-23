@@ -1,3 +1,7 @@
 # StartWithVehicles
 
-v0.1.2 is in the works to make vehicles functional and make the mod fulfill its intended purpose - After this, plans to add starter versions of Truck and Explorer will resume
+Trains and the explorer work fine
+
+I've had no time lately but at some point I'll add trucks and stations as well as the jetpack and/or hoverpack earlier on
+
+all in the name of our ficsyt overlords
