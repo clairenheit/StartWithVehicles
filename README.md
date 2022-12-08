@@ -1,7 +1,7 @@
 # StartWithVehicles
 
-Trains and the explorer work fine
+Currently adds trains, explorer, and hoverpack to tier 2 
 
-I've had no time lately but at some point I'll add trucks and stations as well as the jetpack and/or hoverpack earlier on
+Please report any bugs or problems under the issues tab
 
 all in the name of our ficsyt overlords
