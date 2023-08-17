@@ -1,0 +1,423 @@
+{
+	"Files": [
+		{
+			"Path": "FactoryGame/Mods/StartWithVehicles/Content/Vehicles/Train/Signal/Build_CheapRailroadPathSignal.uasset",
+			"ChunkId": "d70594099af3753b00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/StartWithVehicles/Content/Vehicles/Train/Signal/Build_CheapRailroadBlockSignal.uasset",
+			"ChunkId": "9e78a8b229d0f82d00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/StartWithVehicles/Content/Vehicles/Train/Track/Build_CheapRailroadTrack.uasset",
+			"ChunkId": "f262311c7f9e3c3a00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/StartWithVehicles/Content/Vehicles/Train/Locomotive/BP_CheapLocomotive.uasset",
+			"ChunkId": "9997e2a59bcedf8600000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/StartWithVehicles/Content/Stations/TrainStations/Build_CheapTrainStation.uasset",
+			"ChunkId": "9b0b9f9914b8d1fc00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/StartWithVehicles/Content/Stations/TrainStations/Build_CheapTrainPlatformEmpty_02.uasset",
+			"ChunkId": "fb5339c20dd2cc4500000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/StartWithVehicles/Content/Stations/TrainStations/Build_CheapTrainPlatformEmpty.uasset",
+			"ChunkId": "bc256be1b07c9f8d00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/StartWithVehicles/Content/Stations/TrainStations/Build_CheapTrainDockingStationLiquid.uasset",
+			"ChunkId": "2a9701e36fd9b37200000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/StartWithVehicles/Content/Stations/TrainStations/Build_CheapTrainDockingStation.uasset",
+			"ChunkId": "770a5db8beaf5c9900000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/StartWithVehicles/Content/Vehicles/Explorer/Desc_CheapExplorer.uasset",
+			"ChunkId": "78acb61b958622c300000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/StartWithVehicles/Content/Vehicles/Train/Wagon/BP_CheapFreightWagon.uasset",
+			"ChunkId": "4d5e66a27dbbc80d00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/StartWithVehicles/Content/Vehicles/Hoverpack/Equip_HoverPack_Cheap.uasset",
+			"ChunkId": "180921e3b9a545b500000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/StartWithVehicles/Content/Vehicles/Train/Wagon/Desc_CheapFreightWagon.uasset",
+			"ChunkId": "9067f189d57e6daf00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/StartWithVehicles/Content/Vehicles/Train/Signal/Desc_CheapRailroadPathSignal.uasset",
+			"ChunkId": "add351242adbeacb00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/StartWithVehicles/Content/Vehicles/Train/Signal/Desc_CheapRailroadBlockSignal.uasset",
+			"ChunkId": "ccc00334239a7ecd00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/StartWithVehicles/Content/Vehicles/Train/Track/Desc_CheapRailroadTrack.uasset",
+			"ChunkId": "9ec40818ed5e9f5600000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/StartWithVehicles/Content/Vehicles/Train/Locomotive/Desc_CheapLocomotive.uasset",
+			"ChunkId": "5dbd77cbc35d368500000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/StartWithVehicles/Content/Stations/TrainStations/Desc_CheapTrainStation.uasset",
+			"ChunkId": "4bbd25828ba9913e00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/StartWithVehicles/Content/Stations/TrainStations/Desc_CheapTrainPlatformEmpty_02.uasset",
+			"ChunkId": "2444c8d6385b963c00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/StartWithVehicles/Content/Stations/TrainStations/Desc_CheapTrainPlatformEmpty.uasset",
+			"ChunkId": "b9c3442257cc58f400000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/StartWithVehicles/Content/Stations/TrainStations/Desc_CheapTrainDockingStationLiquid.uasset",
+			"ChunkId": "933101c0d686e97900000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/StartWithVehicles/Content/Stations/TrainStations/Desc_CheapTrainDockingStation.uasset",
+			"ChunkId": "e23497753f8c464e00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/StartWithVehicles/Content/Vehicles/Explorer/Recipe_CheapExplorer.uasset",
+			"ChunkId": "9393daa0f49023ec00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/StartWithVehicles/Content/Vehicles/Hoverpack/BP_EquipmentDescriptorHoverPack_Cheap.uasset",
+			"ChunkId": "3771faee2a2ac36300000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/StartWithVehicles/Content/Vehicles/Train/Wagon/Recipe_CheapFreightWagon.uasset",
+			"ChunkId": "6c8e8f13dc285a7b00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/StartWithVehicles/Content/Vehicles/Train/Signal/Recipe_CheapRailroadPathSignal.uasset",
+			"ChunkId": "f55e1ff8d499d6a600000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/StartWithVehicles/Content/Vehicles/Train/Signal/Recipe_CheapRailroadBlockSignal.uasset",
+			"ChunkId": "ead3cd4a03cdad0200000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/StartWithVehicles/Content/Vehicles/Train/Track/Recipe_CheapRailroadTrack.uasset",
+			"ChunkId": "d0f1f3559da1ca9000000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/StartWithVehicles/Content/Vehicles/Train/Locomotive/Recipe_CheapLocomotive.uasset",
+			"ChunkId": "2660bebb3ea7148100000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/StartWithVehicles/Content/Stations/TrainStations/Recipe_CheapTrainStation.uasset",
+			"ChunkId": "4f463d7024a4d83f00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/StartWithVehicles/Content/Stations/TrainStations/Recipe_CheapTrainPlatformEmpty_02.uasset",
+			"ChunkId": "5e7c22b0ed3dd5e600000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/StartWithVehicles/Content/Stations/TrainStations/Recipe_CheapTrainPlatformEmpty.uasset",
+			"ChunkId": "ac0c499bfc5722c700000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/StartWithVehicles/Content/Icons/Electric_Locomotive.uasset",
+			"ChunkId": "557e62af87b59a9000000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/StartWithVehicles/Content/Icons/Electric_Locomotive.ubulk",
+			"ChunkId": "557e62af87b59a9000000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/StartWithVehicles/Content/Stations/TrainStations/Recipe_CheapTrainDockingStationLiquid.uasset",
+			"ChunkId": "2313fe8b52c1ea9600000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/StartWithVehicles/Content/Stations/TrainStations/Recipe_CheapTrainDockingStation.uasset",
+			"ChunkId": "f03fffc52948810a00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/StartWithVehicles/Content/Schematics/Schem_StartWithVehicles_Explorer.uasset",
+			"ChunkId": "d20bd5a15303f88100000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/StartWithVehicles/Content/Vehicles/Hoverpack/Recipe_Hoverpack_Cheap.uasset",
+			"ChunkId": "77e3e76bbb609d7e00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/StartWithVehicles/Content/Schematics/Schem_StartWithVehicles_LiquidPlatform.uasset",
+			"ChunkId": "052d8951e16e363800000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/StartWithVehicles/Content/Schematics/Schem_StartWithVehicles_Trains.uasset",
+			"ChunkId": "1b6eba4c56a8401500000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/StartWithVehicles/Content/Schematics/Schem_StartWithVehicles_Hoverpack.uasset",
+			"ChunkId": "5ff07f52bd18fc1f00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/StartWithVehicles/Content/InitGameWorld.uasset",
+			"ChunkId": "f8b911679525d1e500000001"
+		}
+	],
+	"Packages": [
+		{
+			"Name": "/StartWithVehicles/Vehicles/Train/Signal/Build_CheapRailroadPathSignal",
+			"ExportBundleChunkIds": [
+				"d70594099af3753b00000001"
+			]
+		},
+		{
+			"Name": "/StartWithVehicles/Vehicles/Train/Signal/Build_CheapRailroadBlockSignal",
+			"ExportBundleChunkIds": [
+				"9e78a8b229d0f82d00000001"
+			]
+		},
+		{
+			"Name": "/StartWithVehicles/Vehicles/Train/Track/Build_CheapRailroadTrack",
+			"ExportBundleChunkIds": [
+				"f262311c7f9e3c3a00000001"
+			]
+		},
+		{
+			"Name": "/StartWithVehicles/Vehicles/Train/Locomotive/BP_CheapLocomotive",
+			"ExportBundleChunkIds": [
+				"9997e2a59bcedf8600000001"
+			]
+		},
+		{
+			"Name": "/StartWithVehicles/Stations/TrainStations/Build_CheapTrainStation",
+			"ExportBundleChunkIds": [
+				"9b0b9f9914b8d1fc00000001"
+			]
+		},
+		{
+			"Name": "/StartWithVehicles/Stations/TrainStations/Build_CheapTrainPlatformEmpty_02",
+			"ExportBundleChunkIds": [
+				"fb5339c20dd2cc4500000001"
+			]
+		},
+		{
+			"Name": "/StartWithVehicles/Stations/TrainStations/Build_CheapTrainPlatformEmpty",
+			"ExportBundleChunkIds": [
+				"bc256be1b07c9f8d00000001"
+			]
+		},
+		{
+			"Name": "/StartWithVehicles/Stations/TrainStations/Build_CheapTrainDockingStationLiquid",
+			"ExportBundleChunkIds": [
+				"2a9701e36fd9b37200000001"
+			]
+		},
+		{
+			"Name": "/StartWithVehicles/Stations/TrainStations/Build_CheapTrainDockingStation",
+			"ExportBundleChunkIds": [
+				"770a5db8beaf5c9900000001"
+			]
+		},
+		{
+			"Name": "/StartWithVehicles/Vehicles/Explorer/Desc_CheapExplorer",
+			"ExportBundleChunkIds": [
+				"78acb61b958622c300000001"
+			]
+		},
+		{
+			"Name": "/StartWithVehicles/Vehicles/Train/Wagon/BP_CheapFreightWagon",
+			"ExportBundleChunkIds": [
+				"4d5e66a27dbbc80d00000001"
+			]
+		},
+		{
+			"Name": "/StartWithVehicles/Vehicles/Hoverpack/Equip_HoverPack_Cheap",
+			"ExportBundleChunkIds": [
+				"180921e3b9a545b500000001"
+			]
+		},
+		{
+			"Name": "/StartWithVehicles/Vehicles/Train/Wagon/Desc_CheapFreightWagon",
+			"ExportBundleChunkIds": [
+				"9067f189d57e6daf00000001"
+			]
+		},
+		{
+			"Name": "/StartWithVehicles/Vehicles/Train/Signal/Desc_CheapRailroadPathSignal",
+			"ExportBundleChunkIds": [
+				"add351242adbeacb00000001"
+			]
+		},
+		{
+			"Name": "/StartWithVehicles/Vehicles/Train/Signal/Desc_CheapRailroadBlockSignal",
+			"ExportBundleChunkIds": [
+				"ccc00334239a7ecd00000001"
+			]
+		},
+		{
+			"Name": "/StartWithVehicles/Vehicles/Train/Track/Desc_CheapRailroadTrack",
+			"ExportBundleChunkIds": [
+				"9ec40818ed5e9f5600000001"
+			]
+		},
+		{
+			"Name": "/StartWithVehicles/Vehicles/Train/Locomotive/Desc_CheapLocomotive",
+			"ExportBundleChunkIds": [
+				"5dbd77cbc35d368500000001"
+			]
+		},
+		{
+			"Name": "/StartWithVehicles/Stations/TrainStations/Desc_CheapTrainStation",
+			"ExportBundleChunkIds": [
+				"4bbd25828ba9913e00000001"
+			]
+		},
+		{
+			"Name": "/StartWithVehicles/Stations/TrainStations/Desc_CheapTrainPlatformEmpty_02",
+			"ExportBundleChunkIds": [
+				"2444c8d6385b963c00000001"
+			]
+		},
+		{
+			"Name": "/StartWithVehicles/Stations/TrainStations/Desc_CheapTrainPlatformEmpty",
+			"ExportBundleChunkIds": [
+				"b9c3442257cc58f400000001"
+			]
+		},
+		{
+			"Name": "/StartWithVehicles/Stations/TrainStations/Desc_CheapTrainDockingStationLiquid",
+			"ExportBundleChunkIds": [
+				"933101c0d686e97900000001"
+			]
+		},
+		{
+			"Name": "/StartWithVehicles/Stations/TrainStations/Desc_CheapTrainDockingStation",
+			"ExportBundleChunkIds": [
+				"e23497753f8c464e00000001"
+			]
+		},
+		{
+			"Name": "/StartWithVehicles/Vehicles/Explorer/Recipe_CheapExplorer",
+			"ExportBundleChunkIds": [
+				"9393daa0f49023ec00000001"
+			]
+		},
+		{
+			"Name": "/StartWithVehicles/Vehicles/Hoverpack/BP_EquipmentDescriptorHoverPack_Cheap",
+			"ExportBundleChunkIds": [
+				"3771faee2a2ac36300000001"
+			]
+		},
+		{
+			"Name": "/StartWithVehicles/Vehicles/Train/Wagon/Recipe_CheapFreightWagon",
+			"ExportBundleChunkIds": [
+				"6c8e8f13dc285a7b00000001"
+			]
+		},
+		{
+			"Name": "/StartWithVehicles/Vehicles/Train/Signal/Recipe_CheapRailroadPathSignal",
+			"ExportBundleChunkIds": [
+				"f55e1ff8d499d6a600000001"
+			]
+		},
+		{
+			"Name": "/StartWithVehicles/Vehicles/Train/Signal/Recipe_CheapRailroadBlockSignal",
+			"ExportBundleChunkIds": [
+				"ead3cd4a03cdad0200000001"
+			]
+		},
+		{
+			"Name": "/StartWithVehicles/Vehicles/Train/Track/Recipe_CheapRailroadTrack",
+			"ExportBundleChunkIds": [
+				"d0f1f3559da1ca9000000001"
+			]
+		},
+		{
+			"Name": "/StartWithVehicles/Vehicles/Train/Locomotive/Recipe_CheapLocomotive",
+			"ExportBundleChunkIds": [
+				"2660bebb3ea7148100000001"
+			]
+		},
+		{
+			"Name": "/StartWithVehicles/Stations/TrainStations/Recipe_CheapTrainStation",
+			"ExportBundleChunkIds": [
+				"4f463d7024a4d83f00000001"
+			]
+		},
+		{
+			"Name": "/StartWithVehicles/Stations/TrainStations/Recipe_CheapTrainPlatformEmpty_02",
+			"ExportBundleChunkIds": [
+				"5e7c22b0ed3dd5e600000001"
+			]
+		},
+		{
+			"Name": "/StartWithVehicles/Stations/TrainStations/Recipe_CheapTrainPlatformEmpty",
+			"ExportBundleChunkIds": [
+				"ac0c499bfc5722c700000001"
+			]
+		},
+		{
+			"Name": "/StartWithVehicles/Icons/Electric_Locomotive",
+			"ExportBundleChunkIds": [
+				"557e62af87b59a9000000001"
+			],
+			"BulkDataChunkIds": [
+				"557e62af87b59a9000000002"
+			]
+		},
+		{
+			"Name": "/StartWithVehicles/Stations/TrainStations/Recipe_CheapTrainDockingStationLiquid",
+			"ExportBundleChunkIds": [
+				"2313fe8b52c1ea9600000001"
+			]
+		},
+		{
+			"Name": "/StartWithVehicles/Stations/TrainStations/Recipe_CheapTrainDockingStation",
+			"ExportBundleChunkIds": [
+				"f03fffc52948810a00000001"
+			]
+		},
+		{
+			"Name": "/StartWithVehicles/Schematics/Schem_StartWithVehicles_Explorer",
+			"ExportBundleChunkIds": [
+				"d20bd5a15303f88100000001"
+			]
+		},
+		{
+			"Name": "/StartWithVehicles/Vehicles/Hoverpack/Recipe_Hoverpack_Cheap",
+			"ExportBundleChunkIds": [
+				"77e3e76bbb609d7e00000001"
+			]
+		},
+		{
+			"Name": "/StartWithVehicles/Schematics/Schem_StartWithVehicles_LiquidPlatform",
+			"ExportBundleChunkIds": [
+				"052d8951e16e363800000001"
+			]
+		},
+		{
+			"Name": "/StartWithVehicles/Schematics/Schem_StartWithVehicles_Trains",
+			"ExportBundleChunkIds": [
+				"1b6eba4c56a8401500000001"
+			]
+		},
+		{
+			"Name": "/StartWithVehicles/Schematics/Schem_StartWithVehicles_Hoverpack",
+			"ExportBundleChunkIds": [
+				"5ff07f52bd18fc1f00000001"
+			]
+		},
+		{
+			"Name": "/StartWithVehicles/InitGameWorld",
+			"ExportBundleChunkIds": [
+				"f8b911679525d1e500000001"
+			]
+		}
+	]
+}
