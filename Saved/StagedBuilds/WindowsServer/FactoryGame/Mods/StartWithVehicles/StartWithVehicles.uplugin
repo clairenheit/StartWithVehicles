@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.2",
-	"SemVersion": "1.0.2",
+	"VersionName": "1.0.3",
+	"SemVersion": "1.0.3",
 	"FriendlyName": "StartWithVehicles",
 	"Description": "Start your game with immediate access to cheaper trains and vehicles!",
 	"Category": "Modding",
@@ -18,7 +18,7 @@
 	"Plugins": [
         {
             "Name": "SML",
-            "SemVersion": "^3.5.0",
+            "SemVersion": "^3.7.0",
             "Enabled": true
         }
   ]

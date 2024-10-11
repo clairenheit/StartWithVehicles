@@ -890,10 +890,10 @@ Engine:/Script/AIModule.CrowdManager:PathOptimizationInterval:0=0.500000
 Engine:/Script/AIModule.CrowdManager:SeparationDirClamp:0=-1.000000
 Engine:/Script/AIModule.CrowdManager:PathOffsetRadiusMultiplier:0=1.000000
 Engine:/Script/SocketSubsystemEOS.NetDriverEOSBase:bIsUsingP2PSockets:0=true
-Game:/Script/Alpakit.AlpakitSettings:WindowsGameTargetSettings:0=(bEnabled=True,bCopyModsToGame=False,SatisfactoryGamePath=(Path=""),bLaunchGame=False,LaunchGameType=STEAM,CustomLaunchPath="")
-Game:/Script/Alpakit.AlpakitSettings:WindowsServerTargetSettings:0=(bEnabled=True,bCopyModsToGame=False,SatisfactoryGamePath=(Path=""),bLaunchGame=False,LaunchGameType=STEAM,CustomLaunchPath="")
-Game:/Script/Alpakit.AlpakitSettings:LinuxServerTargetSettings:0=(bEnabled=True,bCopyModsToGame=False,SatisfactoryGamePath=(Path=""),bLaunchGame=False,LaunchGameType=STEAM,CustomLaunchPath="")
-Game:/Script/Alpakit.AlpakitSettings:ModSelection:0=(("AutoPlantsAndInhalers", True),("ExampleMod", False),("SML", False),("StartWithVehicles", True))
+Game:/Script/Alpakit.AlpakitSettings:WindowsGameTargetSettings:0=(bEnabled=True,bCopyModsToGame=True,SatisfactoryGamePath=(Path="D/SteamLibrary/steamapps/common/Satisfactory"),bLaunchGame=False,LaunchGameType=STEAM,CustomLaunchPath="")
+Game:/Script/Alpakit.AlpakitSettings:WindowsServerTargetSettings:0=(bEnabled=False,bCopyModsToGame=False,SatisfactoryGamePath=(Path=""),bLaunchGame=False,LaunchGameType=STEAM,CustomLaunchPath="")
+Game:/Script/Alpakit.AlpakitSettings:LinuxServerTargetSettings:0=(bEnabled=False,bCopyModsToGame=False,SatisfactoryGamePath=(Path=""),bLaunchGame=False,LaunchGameType=STEAM,CustomLaunchPath="")
+Game:/Script/Alpakit.AlpakitSettings:ModSelection:0=(("AutoPlantsAndInhalers", False),("ExampleMod", False),("SML", False),("StartWithVehicles", True))
 Game:Internationalization:LocalizationPaths:0=%GAMEDIR%Content/Localization/Game
 Game:Internationalization:LocalizationPaths:1=%GAMEDIR%Content/Localization/InputKeys
 Game:/Script/Engine.GameNetworkManager:TotalNetBandwidth:0=32000
@@ -1782,9 +1782,9 @@ WorldSettingVer:1ED048F42F2E4C6889D053A4F18F102D=1
 AkAudioVersion:E2717C7E52F544D3950C5340B315035E=8
 NiagaraVer:FCF57AFA50764283B9A9E658FFA02D32=78
 Dev-Framework:F4E61DC17C029ACE85D7D561E42F6A3D=26
+VariantManagerObjectVer:24BB7AF356464F831F2F2DC249AD96FF=5
 ChaosClothConfigVer:76A52329092345B598AED841CF2F6AD8=5
 ChaosClothSharedConfigVer:5FBC690755C840AE8E67F1845EFFF13F=1
-VariantManagerObjectVer:24BB7AF356464F831F2F2DC249AD96FF=5
 ClothConfigNvVer:9950B70EB41A4E17BBCCFA0D57817FD6=1
 Dev-ControlRig:A7820CFB20A743598C542C149623CF50=25
 Dev-IKRig:F6DFBB78BB50A0E44018B84D60CBAF23=2
